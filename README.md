@@ -2,7 +2,7 @@
 
 ## Week One
 
-*Weekday Challenge:* [Boris Bikes](https://github.com/PiperS52/boris-bikes-4)
+*Weekday Challenge:* [Boris Bikes](https://github.com/PiperS52/boris-bikes-4) <br>
 *Weekend Challenge:* [Airport](https://github.com/ollienorman/airport_challenge)
 
 Weekly Goals|Exercises
@@ -14,7 +14,7 @@ Weekly Goals|Exercises
 
 ## Week Two
 
-*Weekday Challenge:* Oystercard
+*Weekday Challenge:* Oystercard <br>
 *Weekend Challenge:* 
 
 Weekly Goals|Exercises
