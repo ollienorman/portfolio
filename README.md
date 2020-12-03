@@ -20,6 +20,6 @@ Weekly Goals|Exercises
 Weekly Goals|Exercises
 |--|--|
 |Break one class into two classes that work together, while maintaining test coverage	|	
-|Unit test classes in isolation using mocking	|[Secret Diary](https://github.com/ollienorman/testing_relationships_between_classes)
+|Unit test classes in isolation using mocking	|[Secret Diary](https://github.com/ollienorman/testing_relationships_between_classes)<br> [Dependency Injection](https://github.com/ollienorman/dependency-injection)
 |Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)	|
 |Review another person's code and give them meaningful feedback	|	
