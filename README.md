@@ -14,7 +14,7 @@ Weekly Goals|Exercises
 
 ## Week Two
 
-*Weekday Challenge:* Oystercard<br>
+*Weekday Challenge:* [Oystercard](https://github.com/ZeenLamDev/oystercard-1/tree/new_branch)<br>
 *Weekend Challenge:* 
 
 Weekly Goals|Exercises
