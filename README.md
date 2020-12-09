@@ -15,7 +15,7 @@ Weekly Goals|Exercises
 ## Week Two
 
 *Weekday Challenge:* [Oystercard](https://github.com/ZeenLamDev/oystercard-1/tree/new_branch)<br>
-*Weekend Challenge:* 
+*Weekend Challenge:* [Takeaway](https://github.com/ollienorman/takeaway-challenge)
 
 Weekly Goals|Exercises
 |--|--|
@@ -23,3 +23,15 @@ Weekly Goals|Exercises
 |Unit test classes in isolation using mocking	|[Secret Diary](https://github.com/ollienorman/testing_relationships_between_classes)<br>/ [Dependency Injection](https://github.com/ollienorman/dependency-injection)
 |Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)	|[OO Relationships](https://github.com/ollienorman/oo_relationships)
 |Review another person's code and give them meaningful feedback	|	
+
+## Week Three
+
+*Weekday Challenge:* <br>
+*Weekend Challenge:* 
+
+Weekly Goals|Exercises
+|--|--|
+|Build a simple web app	|	
+|Follow an effective debugging process for web applications	|
+|Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)| [Servers](https://github.com/ollienorman/servers-1)
+|Explain the MVC pattern	|	
