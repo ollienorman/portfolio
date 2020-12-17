@@ -1,3 +1,4 @@
+
 ## Week One
 
 *Weekday Challenge:* [Boris Bikes](https://github.com/PiperS52/boris-bikes-4)<br>
@@ -24,8 +25,8 @@ Weekly Goals|Exercises
 
 ## Week Three
 
-*Weekday Challenge:* <br>
-*Weekend Challenge:* 
+*Weekday Challenge:* [Battle](https://github.com/ollienorman/battle) <br>
+*Weekend Challenge:* [Rock Paper Scissors Game](https://github.com/ollienorman/rps-challenge)
 
 Weekly Goals|Exercises
 |--|--|
@@ -33,3 +34,15 @@ Weekly Goals|Exercises
 |Follow an effective debugging process for web applications    | [Debugging 2](https://github.com/ollienorman/debugging_2)
 |Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)| [Servers](https://github.com/ollienorman/servers-1)
 |Explain the MVC pattern    |    
+
+## Week Four
+
+*Weekday Challenge:* <br>
+*Weekend Challenge:* 
+
+Weekly Goals|Exercises
+|--|--|
+|Build a simple web app with a database   |    
+|Follow an effective debugging process for database applications    | 
+|Explain the basics of how databases work (e.g. tables, SQL, basic relationships)| [SQL Murder Mystery](./img/sqlmurdermystery.png) / SQL Datacamp Notes
+ 
